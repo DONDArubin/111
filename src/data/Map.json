@@ -1,0 +1,88 @@
+{
+  "Map":[
+    {
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no",
+      "title": "KFC",
+      "address":"2-я Садовая ул., д.106",
+      "marks":"Хорошее заведение, где можно вкусно, но вредно, поесть, сделать домашку, отдохнуть и подзарядить технику.",
+      "type":"Fastfood",
+      "sstu":"false",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"1"
+    },
+    {
+      "image": "https://kinf.ru/image/w/fn/udg5fs1wjffigeya.jpg",
+      "title": "Pro Hook",
+      "address":"2-я Садовая ул., д.99",
+      "marks":"Хороший вейп-шоп с приветливым персоналом, где можно послушать аромат понравившейся жидкости.",
+      "type":"Vape Shop",
+      "sstu":"false",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"2"
+    },
+    {
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMypFY7IXT1WncxHrcir43bUR7Sqpj91WYDQchG=w485-h240-k-n",
+      "title": "Научно-техническая библиотека СГТУ",
+      "address":"Политехническая ул., 77, корп. 25",
+      "marks":"Тихое и спокойное место, где можно расслабиться при чтении своей любимой книги или при работе над проектом.",
+      "type":"Library",
+      "sstu":"true",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"3"
+    },
+    {
+      "image": "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+      "title": "Стадион СГТУ",
+      "address":"Политехническая ул., 77, корп. 3",
+      "marks":"* * * * *",
+      "type":"Sport",
+      "sstu":"true",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"4"
+    },
+    {
+      "image": "https://lh5.googleusercontent.com/p/AF1QipO6o2isZo8TskvNHGUUY5IjjpcqOsGPuQGIh0Pr=w408-h240-k-no-pi-0-ya80-ro-0-fo100",
+      "title": "Детский технопарк «Кванториум»",
+      "address":"Политехническая ул., 77, корп. 25",
+      "marks":"* * * * *",
+      "type":"Science",
+      "sstu":"true",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"5"
+    },
+    {
+      "image": "https://sun7-7.userapi.com/s/v1/ig2/QF3cANfWNspA9cfNB3BNixQL8zRM-X0NEUoGmxmGXeDAGLAy2hxxXrYeOe9atqdCRiGmQbZjFOQDZP6lgAtvynLI.jpg?size=400x400&quality=96&crop=0,0,600,600&ava=1",
+      "title": "IMBA",
+      "address":"2-я Садовая ул., 106Бк6",
+      "marks":"* * * * *",
+      "type":"Computer club",
+      "sstu":"false",
+      "gallery":[
+        "https://avatars.mds.yandex.net/get-altay/6057477/2a000001815f2d63d05b771ead8000968cca/XXL",
+        "https://img2.akspic.ru/crops/2/5/6/7/6/167652/167652-gora-priroda-oblako-voda-gidroresursy-3840x2160.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipOafNWlUb9zNkt5ZtSjbIjqukipNxlBxd4j1vTm=w408-h272-k-no"
+      ],
+      "id":"6"
+    }
+  ]
+}
